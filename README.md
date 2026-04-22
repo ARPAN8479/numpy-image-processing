@@ -37,7 +37,6 @@ numpy-image-processing/
 │── edges.jpg
 │── output.png
 │── README.md
-│── requirements.txt
 ```
 
 ---

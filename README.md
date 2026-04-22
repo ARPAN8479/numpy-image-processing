@@ -63,6 +63,7 @@ python main.py
 ### 🔹 Application Output
 
 ![Output](output.png)
+<img width="1919" height="980" alt="image" src="https://github.com/user-attachments/assets/49f95f65-b2a7-4149-9062-cdfc3f90e5c5" />
 
 ---
 
